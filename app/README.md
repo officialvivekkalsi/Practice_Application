@@ -8,6 +8,6 @@ localhost:8080
 
 \Practice_Application> cd app                           
 \Practice_Application\app> cd server                    
-\Practice_Application\app\server> npm run dev                 
+\Practice_Application\app\server> npm run server                 
 //this is backend api localhost port 4000               
 localhost:4000
